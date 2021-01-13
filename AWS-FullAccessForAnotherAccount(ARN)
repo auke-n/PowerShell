@@ -1,0 +1,13 @@
+Login to the console with Admin account
+Find the IAM Management Console under the Security, Identity, & Compliance section
+In left panel under the Access Management console click on "Roles"
+Click in "Create Role" button
+Choose the "Another AWS account" field
+Paste the trusted account ID (number of ARN) into the "Account ID" field
+Click on "Next Permissions" button in the boottom of the screen
+Choose the type of permissions you want to grant 
+Enter the Role name into the "Role Name" field
+Click on "Create Role"
+Share the link with the trusted account
+Make sure that everything works fine
+If it is, Congrats! 
